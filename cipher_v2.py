@@ -1,3 +1,5 @@
+###CHANGES TO THE ORIGINAL DOCUMENT###
+###LEARNING GITHUB RIGHT NOW###
 #Cipher Program Designed to take any code and cipher a message
 from Tkinter import *
 
@@ -135,6 +137,8 @@ final = run_cipher.merge_code(code, cipher)
 movement = run_cipher.up_or_down()
 string = run_cipher.move_code(final, movement)
 run_cipher.end_cipher(string)
+
+
 
 			
 		
